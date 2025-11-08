@@ -18,7 +18,6 @@ window#waybar {
   margin: 10px 18px 18px;
   padding: 6px 12px;
   box-shadow: 0 20px 60px alpha(@shadow, 0.8);
-  backdrop-filter: blur(26px);
 }
 
 .modules-left,
