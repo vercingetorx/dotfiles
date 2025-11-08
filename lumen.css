@@ -1,0 +1,23 @@
+/*
+ * Lumen Aurora palette
+ */
+
+@define-color base         #040912;
+@define-color mantle       #071326;
+@define-color surface      #0c1c31;
+@define-color surface-high #152744;
+
+@define-color text       #ecf2ff;
+@define-color text-dim   #92a4c4;
+@define-color accent     #a26bff;
+@define-color accent-alt #3db9ff;
+@define-color accent-warm #f4c27a;
+
+@define-color success #4ef0c2;
+@define-color warning #ffd36e;
+@define-color danger  #ff6d8f;
+
+@define-color glass rgba(4, 9, 18, 0.55);
+@define-color glass-strong rgba(10, 19, 33, 0.75);
+@define-color stroke rgba(162, 107, 255, 0.35);
+@define-color shadow rgba(2, 5, 10, 0.85);
